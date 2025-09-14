@@ -1,5 +1,3 @@
-# kabar-sintang
-Website media online berita umum, hukum, kriminal
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -37,48 +35,3 @@ Website media online berita umum, hukum, kriminal
   </footer>
 </body>
 </html>
-/* Style dasar Kabar Sintang */
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-  background: #fafafa;
-}
-
-header {
-  background: #222;
-  color: #fff;
-  padding: 15px;
-  text-align: center;
-}
-
-header nav a {
-  color: #fff;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-header nav a:hover {
-  text-decoration: underline;
-}
-
-.news {
-  padding: 20px;
-}
-
-article {
-  background: #fff;
-  margin-bottom: 15px;
-  padding: 15px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-footer {
-  background: #f4f4f4;
-  text-align: center;
-  padding: 15px;
-  font-size: 14px;
-}
